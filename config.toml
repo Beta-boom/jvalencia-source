@@ -1,4 +1,4 @@
 baseURL = 'https://josepvalencia.eu.org/'
 languageCode = 'en-us'
 title = 'Josep Valencia'
-theme: "PaperMod"
+theme = "PaperMod"
